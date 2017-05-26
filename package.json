@@ -1,0 +1,11 @@
+{
+  "name": "async-replace",
+  "version": "0.0.1",
+  "description": "asynchronously string replace",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "zhangyiding@corp.netease.com",
+  "license": "ISC"
+}
