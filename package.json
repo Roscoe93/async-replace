@@ -6,6 +6,6 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "zhangyiding@corp.netease.com",
+  "author": "Roscoe",
   "license": "ISC"
 }
